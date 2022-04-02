@@ -1,0 +1,23 @@
+{
+  "name": "test_practice",
+  "version": "1.0.0",
+  "description": "\"# testing_practice\"",
+  "main": "func.test.js",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fasaldana/testing_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fasaldana/testing_practice/issues"
+  },
+  "homepage": "https://github.com/fasaldana/testing_practice#readme"
+}
